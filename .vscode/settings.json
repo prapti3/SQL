@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "root",
+            "username": "root",
+            "database": "thetestingacademy",
+            "askForPassword": true
+        }
+    ],
+    "cSpell.words": [
+        "Argjun",
+        "Gujrat",
+        "Karnataka",
+        "thetestingacademy",
+        "valueus"
+    ]
+}
